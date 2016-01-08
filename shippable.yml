@@ -12,3 +12,4 @@ script:
 notifications:
   email: false
 
+build_image: drydock/u12javpls:tip
